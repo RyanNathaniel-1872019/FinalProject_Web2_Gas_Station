@@ -31,13 +31,6 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-## Description
-Team Member:
-- Ryan Nathaniel - 1872019
-- Salim Arizi - 1872054
-- Aldrich Sancho - 1872058
-
-Made for Web2 subject's final project
 - **[Vehikl](https://vehikl.com/)**
 - **[Tighten Co.](https://tighten.co)**
 - **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
@@ -77,3 +70,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Description
+Team Member:
+- Ryan Nathaniel - 1872019
+- Salim Arizi - 1872054
+- Aldrich Sancho - 1872058
+
+Made for Web2 subject's final project
